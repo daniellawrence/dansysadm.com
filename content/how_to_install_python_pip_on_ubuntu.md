@@ -1,6 +1,6 @@
 Title: How to install python packages on linux
 Date: 2012-31-07 10:20
-Category: how to
+Category: howto
 Tags: python
 
 
