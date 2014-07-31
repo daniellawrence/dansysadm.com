@@ -30,3 +30,5 @@ Once we have a list of nagios checks from your puppetdb, we just loop over each 
         checks[c['title']] = c['parameters']['check_command']
 
 Then we execute each check, letting the user know the output.
+
+You can find the code at https://github.com/daniellawrence/nagioscheck
