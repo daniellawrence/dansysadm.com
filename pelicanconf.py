@@ -18,7 +18,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
+#khan LINKS = (('Pelican', 'http://getpelican.com/'),
 #         ('Python.org', 'http://python.org/'),
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
 #         ('You can modify those links in your config file', '#'),)
@@ -28,6 +28,12 @@ TRANSLATION_FEED_ATOM = None
 #          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 20
+#
+GITHUB_URL = 'http://github.com/daniellawrence'
+SINGLE_AUTHOR = True
+DISPLAY_PAGES_ON_MENU = True
+DISQUS_SHORTNAME = 'dansysadm'
+TWITTER_USERNAME = 'dansysadm'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

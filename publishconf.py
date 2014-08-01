@@ -20,5 +20,10 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "UA-36354656-1"
+
+GITHUB_URL = 'http://github.com/daniellawrence'
+SINGLE_AUTHOR = True
+DISPLAY_PAGES_ON_MENU = True
+DISQUS_SHORTNAME = 'dansysadm'
+TWITTER_USERNAME = 'dansysadm'
