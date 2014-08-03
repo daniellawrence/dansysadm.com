@@ -36,4 +36,16 @@ DISQUS_SHORTNAME = 'dansysadm'
 TWITTER_USERNAME = 'dansysadm'
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
+
+DELETE_OUTPUT_DIRECTORY = True
+
+# Following items are often useful when publishing
+
+GOOGLE_ANALYTICS = "UA-36354656-1"
+
+GITHUB_URL = 'http://github.com/daniellawrence'
+SINGLE_AUTHOR = True
+DISPLAY_PAGES_ON_MENU = True
+DISQUS_SHORTNAME = 'dansysadm'
+TWITTER_USERNAME = 'dansysadm'
